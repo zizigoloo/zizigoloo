@@ -1,11 +1,13 @@
 <div align="center">
-  <!-- Animated Wavy Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Zeinab%20Ramezan%20Ali&fontSize=50&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=50" alt="Profile Banner" width="100%" />
 
-  <!-- Animated Typing Effect -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Cloud+%26+Network+Security+Engineer;Certified+IT+Trusted+Tester;Building+Secure%2C+Accessible+Systems" alt="Typing SVG" />
-  </a>
+  <div style="display: flex; justify-content: center; gap: 10px; margin-top: -20px;">
+    <img src="https://img.shields.io/badge/Full--Stack%20Web%20Developer-58A6FF?style=for-the-badge&logo=react&logoColor=white" alt="Web Developer" />
+    <img src="https://img.shields.io/badge/Cybersecurity%20Engineer-0D1117?style=for-the-badge&logo=shield&logoColor=58A6FF" alt="Security Engineer" />
+    <img src="https://img.shields.io/badge/Certified%20Trusted%20Tester-238636?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Trusted Tester" />
+  </div>
+
+  <br/>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/rmaliz" target="_blank">
@@ -17,23 +19,17 @@
   </p>
 </div>
 
-<!-- Animated Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&width=600&lines=💻+The+Architecture+of+My+Work" alt="Architecture" />
-</a>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" /> The Architecture of My Work
 
 I am a hybrid **Full-Stack Web Developer** and **Security Engineer** who believes that the best code is secure by design and accessible to everyone. Bridging my deep technical training from the **TKH Innovation Fellowship** and **Year Up United**, I build interactive, data-driven web applications from the ground up while engineering the backend cloud infrastructure that keeps them safe. 
 
 My engineering philosophy combines creative UI logic with rigorous digital accessibility standards and proactive threat detection. 
 
-<!-- Animated Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&width=600&lines=🛠️+The+Tech+Stack" alt="Tech Stack" />
-</a>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="35" /> The Tech Stack
 
 ### 🌐 Web & Application Engineering
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -52,46 +48,37 @@ My engineering philosophy combines creative UI logic with rigorous digital acces
 * **Defense Tools:** pfSense, Snort, Wazuh, Cryptographic Protocols, Identity & Access Management (SSO/MFA)
 * **Cloud Security:** AWS GuardDuty, Security Hub, Inspector, Azure Defender
 
-<!-- Animated Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&width=600&lines=🚀+Featured+Web+Dev+Projects" alt="Web Projects" />
-</a>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" /> Featured Web Development Projects
 
-### 🧠 [Machine Learning Image Processor](https://github.com/zizigoloo/ml-image-processor)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" /> [Machine Learning Image Processor](https://github.com/zizigoloo/ml-image-processor)
 * **The Architecture:** A purely client-side AI computer vision application built with vanilla JavaScript, `p5.js`, and `ml5.js`.
 * **The Flex:** Executes real-time FaceMesh detection directly in the browser, ensuring strict user privacy by eliminating backend server payloads. Features highly advanced pixel array manipulation, including custom mathematical matrix transformations to simulate Protanopia, Deuteranopia, and Tritanopia for digital accessibility testing.
 
-### 🏗️ [Event Management API](https://github.com/zizigoloo/event-manager-api)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Cabinet.png" alt="Cabinet" width="25" /> [Event Management API](https://github.com/zizigoloo/event-manager-api)
 * **The Architecture:** A robust backend service structured via Node.js, Express, and a strictly relational SQLite database.
 * **The Flex:** Demonstrates authoritative full-stack server logic. Includes custom raw SQL schemas (`db_schema.sql`) for rapid table generation and precise data routing, ensuring flawless handling of event scheduling and user relationships. 
 
-### 🎱 [Snooker Physics Engine](https://github.com/zizigoloo/snooker-physics-sim)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Pool%208%20Ball.png" alt="8 Ball" width="25" /> [Snooker Physics Engine](https://github.com/zizigoloo/snooker-physics-sim)
 * **The Architecture:** An interactive, Object-Oriented 2D physics simulation rendered in an HTML5 Canvas.
 * **The Flex:** Bypasses basic DOM manipulation to calculate real-time geometric vector reflections, elastic collisions, and frame-rate optimized draw loops.
 
-### 🎛️ [OtoDecks C++ Audio Suite](https://github.com/zizigoloo/otodecks)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Studio%20Microphone.png" alt="Microphone" width="25" /> [OtoDecks C++ Audio Suite](https://github.com/zizigoloo/otodecks)
 * **The Architecture:** A cross-platform desktop application powered by C++ and the JUCE audio framework.
 * **The Flex:** Safely manages system memory across multiple processing threads, cleanly separating GUI rendering from continuous, low-latency Digital Signal Processing (DSP).
 
-<!-- Animated Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&width=600&lines=🛡️+Cloud+&+Cybersecurity+Ops" alt="Cybersecurity" />
-</a>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="35" /> Cloud & Cybersecurity Ops
 
 * **Multi-Account SOC Architecture:** Engineered an enterprise-grade AWS environment using AWS Organizations. Implemented strict logical separation between production servers and log archives, utilizing Lambda and EventBridge for automated threat containment.
 * **Network Defense Simulators:** Configured isolated VM networks routing Kali Linux attack traffic through pfSense gateways. Tuned Snort IDS for real-time intrusion detection and Blue Team vulnerability analysis.
 * **Terraform IaC Deployments:** Automated the spin-up of scalable cloud labs and integrated GuardDuty to route active threat alerts via SNS pipelines using Bash and PowerShell scripting.
 
-<!-- Animated Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&width=600&lines=🏆+Certifications+%26+Affiliations" alt="Certs" />
-</a>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="35" /> Certifications & Affiliations
 
 * **Certified IT Trusted Tester:** Advanced specialization in digital accessibility compliance and WCAG technical standards.
 * **Fellowships:** The Knowledge House (Cybersecurity & Web Development), Year Up United (IT Training Path).
