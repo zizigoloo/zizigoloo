@@ -1,6 +1,8 @@
 <div align="center">
+  <!-- Animated Wavy Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Zeinab%20Ramezan%20Ali&fontSize=50&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=50" alt="Profile Banner" width="100%" />
 
+  <!-- Instant Visibility Titles -->
   <div style="display: flex; justify-content: center; gap: 10px; margin-top: -20px;">
     <img src="https://img.shields.io/badge/Full--Stack%20Web%20Developer-58A6FF?style=for-the-badge&logo=react&logoColor=white" alt="Web Developer" />
     <img src="https://img.shields.io/badge/Cybersecurity%20Engineer-0D1117?style=for-the-badge&logo=shield&logoColor=58A6FF" alt="Security Engineer" />
@@ -23,15 +25,15 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" /> The Architecture of My Work
 
-I am a hybrid **Full-Stack Web Developer** and **Security Engineer** who believes that the best code is secure by design and accessible to everyone. Bridging my deep technical training from the **TKH Innovation Fellowship** and **Year Up United**, I build interactive, data-driven web applications from the ground up while engineering the backend cloud infrastructure that keeps them safe. 
+I am a mission-driven **Full-Stack Web Developer** and **Security Engineer** who believes that the best code is secure by design and accessible to everyone. Bridging my formal Computer Science education with deep technical training from the **TKH Innovation Fellowship**, I build interactive, data-driven web applications from the ground up while engineering the backend cloud infrastructure that keeps them safe. 
 
-My engineering philosophy combines creative UI logic with rigorous digital accessibility standards and proactive threat detection. 
+My engineering philosophy combines creative UI logic with rigorous digital accessibility standards (WCAG, Section 508) and proactive threat detection. 
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="35" /> The Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="35" /> The Tech Stack & Software
 
-### 🌐 Web & Application Engineering
+### 🌐 Web, Application & Containerization
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -39,14 +41,25 @@ My engineering philosophy combines creative UI logic with rigorous digital acces
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5 & CSS3](https://img.shields.io/badge/HTML5%20%26%20CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🔒 Cloud, Automation & Network Defense
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-* **Defense Tools:** pfSense, Snort, Wazuh, Cryptographic Protocols, Identity & Access Management (SSO/MFA)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+* **Defense & Monitoring:** Splunk, Snort, pfSense, Nmap, Cisco Packet Tracer, Network Security Monitoring (NSM), Incident Response (IR)
 * **Cloud Security:** AWS GuardDuty, Security Hub, Inspector, Azure Defender
+* **Infrastructure:** TCP/IP, VPNs, Firewalls, VirtualBox
+
+### ♿ Digital Accessibility & Productivity
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+* **Accessibility Standards:** WCAG, Section 508
+* **Document Remediation:** Adobe Acrobat, Microsoft Word Accessibility Checker, Grackle Docs
+* **Project Management & Collaboration:** Microsoft 365, Google Workspace, Slack, Hootsuite
 
 ---
 
@@ -78,8 +91,16 @@ My engineering philosophy combines creative UI logic with rigorous digital acces
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="35" /> Certifications & Affiliations
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Cap" width="35" /> Education & Certifications
 
-* **Certified IT Trusted Tester:** Advanced specialization in digital accessibility compliance and WCAG technical standards.
-* **Fellowships:** The Knowledge House (Cybersecurity & Web Development), Year Up United (IT Training Path).
-* **Certifications:** Google Cybersecurity Professional Certificate (Coursera).
+### 🎓 Education & Programs
+* **BSc Computer Science** – Goldsmiths, University of London *(Oct 2022 – Oct 2026)*
+* **Innovation Fellowship (Cybersecurity)** – The Knowledge House
+* **Support Engineer** – Gig Academy / Microsoft *(Mar 2023 – Aug 2023)*
+
+### 🏆 Industry Certifications
+* **Certified IT Trusted Tester** (Digital Accessibility Specialist)
+* **Google IT Support Professional Certificate** (Coursera)
+* **Google Project Management Certificate** (NPower)
+* **Google Cybersecurity Professional Certificate** (Coursera)
+* **CompTIA ITF+ Certification** (NPower)
