@@ -1,144 +1,88 @@
-# 🛡️ Zeinab Ramezan Ali
-## 👨‍💻 SECURITY ENGINEER | Cloud & Network Security | Problem Solver  
+# Hi there, I'm Zeinab! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Zeinab%20Ramezan%20Ali&fontSize=50&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=50" alt="Profile Banner" width="100%" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/<www.linkedin.com/in/rmaliz>)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/<zizigoloo>)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-orange)](mailto:<zynbnr4@gmail.com>)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Cloud+%26+Network+Security+Engineer;Certified+IT+Trusted+Tester;Building+Secure%2C+Accessible+Systems" alt="Typing SVG" />
+  </a>
 
----
-
-## 👋 About Me  
-
-Passionate **Security Engineer** with a focus on **cloud security, network defense, and threat detection.**  
-I design, secure, and automate systems to ensure business continuity and data protection.  
-
-I enjoy solving complex security challenges, building detection pipelines, and creating automated responses to evolving cyber threats. My approach blends both the *offensive* and *defensive* sides of cybersecurity — from identifying misconfigurations to engineering secure architectures.  
-
-Currently advancing my expertise in **cloud-native security**, **zero trust frameworks**, and **threat hunting**. My long-term goal is to become a **Cloud Security Architect**, helping organizations implement scalable, secure, and compliant infrastructures.  
-
----
-
-## 🧠 Technical Skills
-
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,aws,azure,python,bash,powershell,terraform,docker,git,github,vscode)](https://skillicons.dev)
-
-**Core Competencies**  
-- Cloud Security (AWS | Azure | GCP)  
-- SIEM & Threat Detection (Splunk | Wazuh)  
-- Network Defense & Firewall Management (pfSense | Suricata | Snort)  
-- Incident Response & Digital Forensics  
-- Security Automation (Python, Bash, PowerShell)  
-- Identity & Access Management (IAM, SSO, MFA)  
-
-**Certifications**  
-In progress: 
-![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security+-red) 
-![CCNA](https://img.shields.io/badge/Cisco-CCNA-blue)
-![AWS Security Specialty](https://img.shields.io/badge/AWS-Security_Specialty-black)
-![Microsoft Certified](https://img.shields.io/badge/Microsoft-Certified%20Security%20Engineer-blue)
+  <p align="center">
+    <a href="https://www.linkedin.com/in/rmaliz" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:zynbnr4@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## 🎯 Featured Projects  
+## 💻 The Architecture of My Work
 
-### 1. [**Biotech-Focused Cloud SOC (SOCaaS) Architecture**](https://github.com/nyahhepburn/gvrdc-aws-infra)
-**Skills:** Cloud SOC Architecture, AWS Security (GuardDuty, Security Hub), Automated Incident Response, Threat Hunting, MITRE ATT&CK, Compliance (HIPAA/GxP), AWS Organizations  
+I am a hybrid **Full-Stack Web Developer** and **Security Engineer** who believes that the best code is secure by design and accessible to everyone. Bridging my deep technical training from the **TKH Innovation Fellowship** and **Year Up United**, I build interactive, data-driven web applications from the ground up while engineering the backend cloud infrastructure that keeps them safe. 
 
-Designed a multi-account AWS architecture (using AWS Organizations) to isolate production ("Ground Zero"), SOC tools ("Containment Lab"), and log archive ("Archive Ward") environments for a biotech firm.
-Architected a cloud-native detection pipeline to aggregate findings from AWS GuardDuty, Security Hub, and Inspector into a central SOC account.
-Planned automated containment playbooks using AWS Lambda and EventBridge to quarantine EC2 instances and respond to ransomware-style threats in real-time.  
-
-**Key Achievements:**  
-- Developed domain-aware detection logic mapped to MITRE ATT&CK for biotech-specific threats (e.g., anomalous genomic data access, research database exfiltration).
-- Integrated HIPAA and FDA/GxP compliance requirements directly into the SOC architecture, logging standards, and automated response playbooks.
-- Designed a centralized logging and threat-hunting solution using S3, CloudTrail, and Amazon Athena to query for adversary TTPs.
-- Produced a complete project charter, 6-sprint roadmap, RACI matrix, and detailed service topology for the SOCaaS build-out. 
-
-**Tools:** AWS Organizations, GuardDuty, Security Hub, Inspector, Detective, Lambda, Step Functions, EventBridge, Athena, S3, CloudTrail, MITRE ATT&CK, NIST, Terraform (planned)  
+My engineering philosophy combines creative UI logic with rigorous digital accessibility standards and proactive threat detection. 
 
 ---
 
-### 2. [**Network Attack & Defense Simulation**](https://github.com/<your-github>/network-security-lab)
-**Skills:** Network Security Monitoring (NSM), Intrusion Detection (IDS), pfSense Configuration, Virtualization, Red Team (Scanning), Blue Team (Alert Analysis)
+## 🛠️ The Tech Stack
 
-Built an isolated, multi-VM lab (Attacker, Target, Firewall) using Oracle VirtualBox and an internal-only network.
-Deployed and configured pfSense as the network firewall/gateway and integrated Snort as a package for intrusion detection on the LAN interface.
-Executed simulated attacks from a Kali Linux machine (using Nmap and Nikto) against a Metasploitable2 target to test the defensive monitoring setup.
+### 🌐 Web & Application Engineering
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5 & CSS3](https://img.shields.io/badge/HTML5%20%26%20CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Key Achievements:**  
-- Successfully configured the network to route all attacker (Kali) and victim (Metasloitable2) traffic through the pfSense IDS for complete inspection.
-- Generated and validated real-time Snort alerts that correctly identified Nmap TCP scans and Nikto web vulnerability scanning patterns.
-- Created a reusable lab to demonstrate the practical application of network topology, DHCP, routing, and interpreting IDS alerts. 
-
-**Tools:** Oracle VirtualBox, pfSense, Snort, Kali Linux, Nmap, Nikto, Metasploitable2
-
----
-
-### 3. [**EC2 Compromise & Remediation**](https://github.com/zizigoloo/aws-lab-scripts)
-**Skills:** Terraform (IaC), AWS GuardDuty, Security Hub, EC2, VPC, CloudWatch  
-
-Designed and deployed a multi-account AWS lab environment using Terraform to simulate EC2 compromise scenarios.
-Integrated AWS GuardDuty for automated threat detection and AWS Security Hub for centralized security finding analysis.
-Developed automation scripts (PowerShell/Bash) to simulate attacks and configure the lab environment.  
-
-**Highlights:**  
-- Built a reusable, fully automated lab (Infrastructure as Code) for hands-on security training and demonstrations.
-- Configured real-time threat alerting by forwarding GuardDuty findings to SNS notifications. 
-
-**Tools:** Terraform, AWS GuardDuty, AWS Security Hub, AWS EC2, AWS VPC, AWS IAM, CloudWatch, SNS, PowerShell, Bash
+### 🔒 Cloud, Automation & Network Defense
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+* **Defense Tools:** pfSense, Snort, Wazuh, Cryptographic Protocols, Identity & Access Management (SSO/MFA)
+* **Cloud Security:** AWS GuardDuty, Security Hub, Inspector, Azure Defender
 
 ---
 
-## 🛠️ Additional Skills  
+## 🚀 Featured Web Development & Software Projects
 
-### Security Tools & Platforms  
-- **SOC Tools:** Wazuh, Splunk, Security Onion
-- **Pen Testing:** Nmap, Metasploit, Burp Suite 
+### 🧠 [Machine Learning Image Processor](https://github.com/zizigoloo/ml-image-processor)
+* **The Architecture:** A purely client-side AI computer vision application built with vanilla JavaScript, `p5.js`, and `ml5.js`.
+* **The Flex:** Executes real-time FaceMesh detection directly in the browser, ensuring strict user privacy by eliminating backend server payloads. Features highly advanced pixel array manipulation, including custom mathematical matrix transformations to simulate Protanopia, Deuteranopia, and Tritanopia for digital accessibility testing.
 
-### Scripting & Infrastructure  
-- **Languages:** Python, Bash, PowerShell  
-- **Automation:** Terraform,  GitHub Actions  
-- **Cloud Services:** EC2, S3, IAM, CloudTrail, Azure Defender  
+### 🏗️ [Event Management API](https://github.com/zizigoloo/event-manager-api)
+* **The Architecture:** A robust backend service structured via Node.js, Express, and a strictly relational SQLite database.
+* **The Flex:** Demonstrates authoritative full-stack server logic. Includes custom raw SQL schemas (`db_schema.sql`) for rapid table generation and precise data routing, ensuring flawless handling of event scheduling and user relationships. 
 
----
+### 🎱 [Snooker Physics Engine](https://github.com/zizigoloo/snooker-physics-sim)
+* **The Architecture:** An interactive, Object-Oriented 2D physics simulation rendered in an HTML5 Canvas.
+* **The Flex:** Bypasses basic DOM manipulation to calculate real-time geometric vector reflections, elastic collisions, and frame-rate optimized draw loops.
 
-## 🏆 Achievements  
-
--  Built secure AWS infrastructure with GuardDuty and Config monitoring  
--  Cybersecurity Fellowship Graduate  
-
----
-
-## 🎓 Continuous Learning  
-
-**Currently Exploring:**  
-- Zero Trust Security Architecture  
-- SOC Automation with SOAR tools  
-- AWS Detective & CloudTrail Lake  
-- Reverse Engineering & Malware Analysis  
-
-**Recent Training:**  
-- Coursera – Google Cybersecurity Professional Certificate  
-- TryHackMe – Cloud Security Engineer Path  
+### 🎛️ [OtoDecks C++ Audio Suite](https://github.com/zizigoloo/otodecks)
+* **The Architecture:** A cross-platform desktop application powered by C++ and the JUCE audio framework.
+* **The Flex:** Safely manages system memory across multiple processing threads, cleanly separating GUI rendering from continuous, low-latency Digital Signal Processing (DSP).
 
 ---
 
-## 📞 Contact & Links  
+## 🛡️ Cloud Infrastructure & Cybersecurity Ops
 
-📧 **Email:** [<zynbnr4@gmail.com>](mailto:<zynbnr4@gmail.com>)  
-💼 **LinkedIn:** [linkedin.com/in/rmaliz](www.linkedin.com/in/rmaliz)  
-💻 **GitHub:** [github.com/zizigoloo](https://github.com/zizigoloo)  
-
----
-
-## 🗒️ Disclaimer  
-
-All research, labs, and tests showcased here were conducted in **authorized lab environments** following **ethical hacking** practices and compliance standards.
+* **Multi-Account SOC Architecture:** Engineered an enterprise-grade AWS environment using AWS Organizations. Implemented strict logical separation between production servers and log archives, utilizing Lambda and EventBridge for automated threat containment.
+* **Network Defense Simulators:** Configured isolated VM networks routing Kali Linux attack traffic through pfSense gateways. Tuned Snort IDS for real-time intrusion detection and Blue Team vulnerability analysis.
+* **Terraform IaC Deployments:** Automated the spin-up of scalable cloud labs and integrated GuardDuty to route active threat alerts via SNS pipelines using Bash and PowerShell scripting.
 
 ---
 
+## 🏆 Certifications & Affiliations
 
+* **Certified IT Trusted Tester:** Advanced specialization in digital accessibility compliance and WCAG technical standards.---
 
-*Last Updated: November 2025*  
+## 📈 Live GitHub Dynamics
 
-> _"Security is not about perfection—it’s about resilience."_ — **<ENTER Zeinab Ramezan Ali>**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zizigoloo&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Zeinab's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zizigoloo&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="Zeinab's Contribution Streak" />
+</div>
