@@ -77,10 +77,6 @@ My engineering philosophy combines creative UI logic with rigorous digital acces
 * **The Architecture:** An interactive, Object-Oriented 2D physics simulation rendered in an HTML5 Canvas.
 * **The Flex:** Bypasses basic DOM manipulation to calculate real-time geometric vector reflections, elastic collisions, and frame-rate optimized draw loops.
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Studio%20Microphone.png" alt="Microphone" width="25" /> [OtoDecks C++ Audio Suite](https://github.com/zizigoloo/otodecks)
-* **The Architecture:** A cross-platform desktop application powered by C++ and the JUCE audio framework.
-* **The Flex:** Safely manages system memory across multiple processing threads, cleanly separating GUI rendering from continuous, low-latency Digital Signal Processing (DSP).
-
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="35" /> Cloud & Cybersecurity Ops
